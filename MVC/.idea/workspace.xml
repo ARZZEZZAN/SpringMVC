@@ -11,6 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9e12b8b7-9414-4d97-93ff-a8690e113494" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/armenarzz/spring/Controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/armenarzz/spring/Controllers/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/controller/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/controller/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +178,6 @@
       </method>
     </configuration>
     <configuration name="Tomcat 11.0.0-M6" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M6" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="MVC:war exploded">
           <settings>
@@ -459,7 +460,7 @@
       <workItem from="1684573221796" duration="3439000" />
       <workItem from="1684577087952" duration="1681000" />
       <workItem from="1684581988901" duration="4148000" />
-      <workItem from="1684590165779" duration="1033000" />
+      <workItem from="1684590165779" duration="2173000" />
     </task>
     <servers />
   </component>
