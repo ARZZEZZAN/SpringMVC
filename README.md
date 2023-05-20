@@ -1,2 +1,2 @@
 # SpringMVC
-A simple application using SpringMVC as well as working with the database this 
+A simple application using SpringMVC as well as working with the database
