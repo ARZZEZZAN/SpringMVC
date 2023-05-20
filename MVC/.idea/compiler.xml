@@ -10,5 +10,8 @@
         <module name="MVC" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MVC" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
