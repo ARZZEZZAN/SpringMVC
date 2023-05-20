@@ -1,0 +1,18 @@
+GET http://localhost:8080/hello
+
+<> 2023-05-20T124155.404.html
+
+###
+
+GET http://localhost:8080
+
+<> 2023-05-20T124137.200.html
+
+###
+
+GET http://localhost:8080
+
+<> 2023-05-20T124135.200.html
+
+###
+

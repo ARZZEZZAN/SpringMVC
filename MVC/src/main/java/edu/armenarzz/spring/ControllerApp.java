@@ -5,9 +5,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 @Controller
 public class ControllerApp {
-    @GetMapping("/hello-world")
+    @GetMapping("/hello")
     public String hello() {
-        System.out.println("hui");
         return "hello_world";
     }
 }
