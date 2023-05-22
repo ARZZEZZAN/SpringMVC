@@ -11,8 +11,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/people")
 public class PeopleController {
+    private final PersonDao personDao;
+
     @Autowired
-    private PersonDao personDao;
+    public PeopleController(PersonDao personDao) {
+        this.personDao = personDao;
+    }
 
     @GetMapping()
     public String index( Model model) {

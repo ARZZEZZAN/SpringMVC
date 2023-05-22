@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e12b8b7-9414-4d97-93ff-a8690e113494" name="Changes" comment="" />
+    <list default="true" id="9e12b8b7-9414-4d97-93ff-a8690e113494" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/armenarzz/spring/Controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/armenarzz/spring/Controllers/PeopleController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -458,7 +461,7 @@
       <workItem from="1684581988901" duration="4148000" />
       <workItem from="1684590165779" duration="2173000" />
       <workItem from="1684666967611" duration="326000" />
-      <workItem from="1684739650852" duration="1635000" />
+      <workItem from="1684739650852" duration="2116000" />
     </task>
     <servers />
   </component>
